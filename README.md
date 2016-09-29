@@ -1,2 +1,2 @@
 # matrixMultiplication
-This code is for matrix multiplication using Strassen Algorithm.
+This code is for matrix multiplication using Strassen Algorithm and iteration Method.
